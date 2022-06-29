@@ -11,7 +11,7 @@ here=os.path.abspath(__file__).replace("initiate.py","")
 # for font_file in font_files:
 #     font_manager.fontManager.addfont(font_file)
 
-plt.style.use(os.path.join(here, 'unhcrpyplotsytle.mplstyle'))
+plt.style.use(os.path.join(here, 'unhcrpyplotstyle.mplstyle'))
 
 #override the harsh RGB colors with more aesthetic ones:
 newc = dict(

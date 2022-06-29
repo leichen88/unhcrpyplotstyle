@@ -3,9 +3,9 @@ from setuptools import setup
 setup( name='unhcrpyplotstyle',
        version='0.15',
        author='Lei Chen',
-       author_email="chen@unhcr.orgt",
-       description="Set matplotlib style to follow UNHCR's brand policies",
-       packages=['unhcrpyplotsytle'],
+       author_email="chen@unhcr.org",
+       description="Set matplotlib style to follow UNHCR's Data Visualization Guidelines",
+       packages=['unhcrpyplotstyle'],
        install_requires=['matplotlib>=3.1.0'],
        include_package_data=True
     )
