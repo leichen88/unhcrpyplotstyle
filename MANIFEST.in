@@ -1,1 +1,1 @@
-include unhcrpyplotstyle/hcrpyplotstyle.mplstyle
+include unhcrpyplotstyle/unhcrhcrpyplotstyle.mplstyle *.txt *.py
