@@ -1,10 +1,11 @@
 import matplotlib.pyplot as plt
+from matplotlib import rcParams
 import os
 import matplotlib
 
 here=os.path.abspath(__file__).replace("initiate.py","")
 
-plt.style.use(os.path.join(here, 'hcrpyplotstyle.mplstyle'))
+plt.style.use(os.path.join(here, 'unhcrpyplotstyle.mplstyle'))
 
 #override default colours:
 newc = dict(
