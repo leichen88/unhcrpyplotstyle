@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup( name='unhcrpyplotstyle',
-       version='0.0.7',
+       version='0.0.11',
        author='Lei Chen',
        author_email="chen@unhcr.org",
        description="Set matplotlib style following UNHCR's Data Visualization Guidelines",

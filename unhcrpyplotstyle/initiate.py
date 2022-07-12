@@ -1,34 +1,31 @@
 import matplotlib.pyplot as plt
-from matplotlib import font_manager, rcParams
+from matplotlib import rcParams
 import os
 import matplotlib
 
 here=os.path.abspath(__file__).replace("initiate.py","")
 
-#If we could distribute the font, then this would use it, but we cannot distribute it, so
-#these following three lines don't actually do anything.
-font_files = font_manager.findSystemFonts(fontpaths=[os.path.join(here, "./Brandon_Text")])
-for font_file in font_files:
-    font_manager.fontManager.addfont(font_file)
-
 plt.style.use(os.path.join(here, 'unhcrpyplotstyle.mplstyle'))
 
-#override the harsh RGB colors with more aesthetic ones:
+#override the harsh RGB colors
 newc = dict(
-        r="#CF5C5E",
-        b="#5C97CF",
-        g="#5ECF5C",
-        red="#CF5C5E",
-        blue="#5C97CF",
-        green="#5ECF5C",
-        orange="#E69A45",
-        yellow="#E6D645",
-        magenta="#CE5CCF",
-        fucshia="#CF5CCA",
-        purple="#945CCF",
-        violet="#5C5ECF",
-        darkblue="#3352AD",
-        cyan="#5CCFCE",
+        blue='#0072BC',
+        white= '#FFFFFF',
+        black= '#000000',
+        yellow= '#FAEB00',
+        grey= '#666666',
+        navy= '#18375F',
+        green= '#00B398',
+        red= '#EF4A60',
+        lightblue= '#DCE9FF',
+        mediumblue= '#8EBEFF',
+        darkblue= '#044F85',
+        lightgrey= '#E6E6E6',
+        mediumgrey= '#CCCCCC',
+        darkgrey= '#222222',
+        lightyellow= '#FFF9CB',
+        mediumyellow= '#FFF483',
+        darkyellow= '#E1CC0D',
 )
 
 for key in newc.keys():
