@@ -1,0 +1,2 @@
+# Set sequentiel red color cycle
+axes.prop_cycle : cycler('color', ['FFE7E8', 'FFBCC1', 'FF8490', 'EF4A60', 'B41C37'])

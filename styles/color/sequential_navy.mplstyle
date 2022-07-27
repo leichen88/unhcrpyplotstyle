@@ -1,0 +1,2 @@
+# Set sequentiel navy color cycle
+axes.prop_cycle : cycler('color', ['E0E9FE', 'B8C9EE', '8395B9', '506489', '18375F'])

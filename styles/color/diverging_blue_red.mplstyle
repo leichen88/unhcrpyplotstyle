@@ -1,0 +1,2 @@
+# Set diverging blue and red color cycle
+axes.prop_cycle : cycler('color', ['044F85', '0072BC', '589BE5', '8EBEFF', '99DDFF', 'E6E6E6', 'FFBCC1', 'FF8490', 'EF4A60','B41C37'])

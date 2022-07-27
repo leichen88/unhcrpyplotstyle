@@ -1,0 +1,2 @@
+# Set sequentiel grey color cycle
+axes.prop_cycle : cycler('color', ['E6E6E6', 'CCCCCC', '999999', '666666', '333333'])

@@ -1,0 +1,2 @@
+# Set PoC color cycle
+axes.prop_cycle : cycler('color', ['0072BC', '8EBEFF', '18375F', '00B398', 'E1CC0D', '8395B9', 'B8C9EE', '999999', 'EF4A60'])
