@@ -1,0 +1,3 @@
+# AXES
+axes.grid:          True
+axes.grid.axis: both
