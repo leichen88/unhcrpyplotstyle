@@ -88,7 +88,7 @@ _Find code example for grouped bar chart [here](https://dataviz.unhcr.org/tools/
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_bar-1.svg" width="500">
 
-_Find code example for stacked bar chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_chart.html)._
+_Find code example for stacked bar chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_bar_chart.html)._
 
 
 The charts with `unhcrpyplotstyle` + `line` styles:
