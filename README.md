@@ -56,51 +56,51 @@ The charts with `unhcrpyplotstyle` + `column` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_column_chart-1.svg" width="500">
 
-Find code example for column chart [here](https://dataviz.unhcr.org/tools/python/python_column_chart.html).
+_Find code example for column chart [here](https://dataviz.unhcr.org/tools/python/python_column_chart.html)._
 
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_grouped_column_chart-1.svg" width="500">
 
-Find code example for grouped column chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_column_chart.html).
+_Find code example for grouped column chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_column_chart.html)._
 
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_column_chart-1.svg" width="500">
 
-Find code example for stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_column_chart.html).
+_Find code example for stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_column_chart.html)._
 
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_100perstackedcolumn-1.svg" width="500">
 
-Find code example for 100% stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_100perc_stacked_column_chart.html).
+_Find code example for 100% stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_100perc_stacked_column_chart.html)._
 
 
 The charts with `unhcrpyplotstyle` + `bar` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_bar_chart-1.svg" width="500">
 
-Find code example for bar chart [here](https://dataviz.unhcr.org/tools/python/python_bar_chart.html).
+_Find code example for bar chart [here](https://dataviz.unhcr.org/tools/python/python_bar_chart.html)._
 
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_grouped_bar_chart-1.svg" width="500">
 
-Find code example for grouped bar chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_bar_chart.html).
+_Find code example for grouped bar chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_bar_chart.html)._
 
 
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_bar_chart-1.svg" width="500">
+<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_bar-1.svg" width="500">
 
-Find code example for stacked bar chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_chart.html).
+_Find code example for stacked bar chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_chart.html)._
 
 
 The charts with `unhcrpyplotstyle` + `line` styles:
 
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_line-1.svg" width="500">
+<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_line_chart-1.svg" width="500">
 
-Find code example for line chart [here](https://dataviz.unhcr.org/tools/python/python_line_chart.html).
+_Find code example for line chart [here](https://dataviz.unhcr.org/tools/python/python_line_chart.html)._
 
 
 The charts with `unhcrpyplotstyle` + `scatterplot` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_scatterplot-1.svg" width="500">
 
-Find code example for scatterplot [here](https://dataviz.unhcr.org/tools/python/python_scatterplot.html).
+_Find code example for scatterplot [here](https://dataviz.unhcr.org/tools/python/python_scatterplot.html)._
 
