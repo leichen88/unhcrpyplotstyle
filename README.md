@@ -1,5 +1,5 @@
 # unhcrpyplotstyle
-The `unhcrpyplotstyle` package provides Matplotlib styles following [UNHCR Data Visualization Guidelines](https://www.unhcr.org/brand/wp-content/uploads/sites/89/2021/11/UNHCR_Data_Visualization_Guidelines.pdf) which ensures plots are professional and brand–compliant. The porpose of this package is to ease and speed up the plot creation process using Matplotlib custom stylesheets, while promoting the UNHCR visual identity. 
+The `unhcrpyplotstyle` package provides Matplotlib styles following [UNHCR Data Visualization Guidelines](https://www.unhcr.org/brand/wp-content/uploads/sites/89/2021/11/UNHCR_Data_Visualization_Guidelines.pdf) which ensures plots are professional and brand–compliant. The porpose of this package is to ease and speed up the chart creation process using Matplotlib custom stylesheets. 
 
 ## Getting started
 The easiest way to install `unhcrpyplostyle` package is by using `pip`:
@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 plt.style.use('unhcrpyplotstyle')
 ```
 
-Once the base style is used then you can add a specific style related the type of chart that you want to use by simply combining two styles together:
+Once the base style is used then you can add a specific style related to the type of chart that you want to use by simply combining two styles together:
 
 ```python
 import matplotlib.pyplot as plt
@@ -54,6 +54,20 @@ See the full list of styles based on chart types below:
 ## Example
 The charts with `unhcrpyplotstyle` + `column` styles:
 
+<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_column_chart-1.svg" width="700">
+Find code example for column chart [here](https://dataviz.unhcr.org/tools/python/python_column_chart.html).
+
+<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_grouped_column_chart-1.svg" width="700">
+Find code example for grouped column chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_column_chart.html).
+
+<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_column_chart-1.svg" width="700">
+Find code example for stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_column_chart.html).
+
+<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_100perstackedcolumn-1.svg" width="700">
+Find code example for 100% stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_100perc_stacked_column_chart.html).
+
+
 The charts with `unhcrpyplotstyle` + `bar` styles:
+
 
 The charts with `unhcrpyplotstyle` + `bubble` styles:
