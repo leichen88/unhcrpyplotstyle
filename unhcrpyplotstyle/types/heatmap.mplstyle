@@ -1,0 +1,7 @@
+
+# AXES
+axes.grid:          False
+axes.spines.top:    False
+axes.spines.bottom:    False
+axes.spines.right:  False
+axes.spines.left:  False
