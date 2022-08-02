@@ -31,7 +31,7 @@ plt.style.use('unhcrpyplotstyle','column')
 
 In this case, the`column`style will add some of the parameters to the base style `unhcrpyplostyle` in order to align all styles of chart elements with a standard UNHCR style column chart.
 
-See the full list of styles based on chart types below:
+See the full list of styles and there use cases based on chart types below:
 - `area`
 - `bar`
 - `bubble`
@@ -59,36 +59,11 @@ The charts with `unhcrpyplotstyle` + `column` styles:
 _Find code example for column chart [here](https://dataviz.unhcr.org/tools/python/python_column_chart.html)._
 
 
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_grouped_column_chart-1.svg" width="500">
-
-_Find code example for grouped column chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_column_chart.html)._
-
-
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_column_chart-1.svg" width="500">
-
-_Find code example for stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_column_chart.html)._
-
-
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_100perstackedcolumn-1.svg" width="500">
-
-_Find code example for 100% stacked column chart [here](https://dataviz.unhcr.org/tools/python/python_100perc_stacked_column_chart.html)._
-
-
 The charts with `unhcrpyplotstyle` + `bar` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_bar_chart-1.svg" width="500">
 
 _Find code example for bar chart [here](https://dataviz.unhcr.org/tools/python/python_bar_chart.html)._
-
-
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_grouped_bar_chart-1.svg" width="500">
-
-_Find code example for grouped bar chart [here](https://dataviz.unhcr.org/tools/python/python_grouped_bar_chart.html)._
-
-
-<img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_stacked_bar-1.svg" width="500">
-
-_Find code example for stacked bar chart [here](https://dataviz.unhcr.org/tools/python/python_stacked_bar_chart.html)._
 
 
 The charts with `unhcrpyplotstyle` + `line` styles:
