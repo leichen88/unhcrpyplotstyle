@@ -1,7 +1,12 @@
 # LINES 
-lines.linewidth: 2  
+lines.linewidth:      2  
 
 # AXES
-axes.grid:          True
+axes.grid:            True
 axes.grid.axis: y
-axes.spines.bottom:    True
+axes.spines.bottom:   True
+
+# TICKS
+xtick.labelbottom:    True
+ytick.labelleft:      True
+ytick.labelright:     True

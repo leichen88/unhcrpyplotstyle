@@ -37,10 +37,12 @@ axes.zmargin:   .02
 
 # TICKS
 xtick.bottom:        False
+xtick.labelbottom:   False
 xtick.major.pad:     3
 xtick.minor.pad:     2.9
 xtick.labelcolor:    333333
 ytick.left:          False
+ytick.labelleft:     False
 ytick.major.pad:     4
 ytick.minor.pad:     2.9
 ytick.labelcolor:    333333

@@ -5,3 +5,7 @@ lines.linewidth: 2
 axes.grid:          True
 axes.grid.axis: y
 axes.spines.bottom:    True
+
+# TICKS
+xtick.labelbottom:   True
+ytick.labelleft:     True

@@ -2,6 +2,6 @@
 axes.prop_cycle: cycler('color', ['0072BC','18375F'])
 
 #TICKS
-xtick.labelbottom: False
 xtick.major.pad:     10
 ytick.major.pad:     20
+ytick.labelleft:     True

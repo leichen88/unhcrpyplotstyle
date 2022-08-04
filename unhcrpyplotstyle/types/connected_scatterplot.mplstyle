@@ -1,3 +1,7 @@
 # AXES
 axes.grid:          True
-axes.grid.axis: both
+axes.grid.axis:     both
+
+# TICKS
+xtick.labelbottom:   True
+ytick.labelleft:     True
