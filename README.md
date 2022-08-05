@@ -1,4 +1,7 @@
 # unhcrpyplotstyle
+
+[![PyPI version](https://badge.fury.io/py/unhcrpyplotstyle.svg)](https://badge.fury.io/py/unhcrpyplotstyle)
+
 The `unhcrpyplotstyle` package provides Matplotlib styles following [UNHCR Data Visualization Guidelines](https://www.unhcr.org/brand/wp-content/uploads/sites/89/2021/11/UNHCR_Data_Visualization_Guidelines.pdf) which ensures charts are professional and brand–compliant. The porpose of this package is to ease and speed up the chart creation process using Matplotlib custom stylesheets. 
 
 ## Getting started
