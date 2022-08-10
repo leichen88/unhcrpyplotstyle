@@ -1,0 +1,9 @@
+# AXES
+axes.grid:             True
+axes.grid.axis:        x
+axes.spines.left:      True
+
+# TICKS
+ytick.labelleft:       True
+xtick.labelbottom:     True
+

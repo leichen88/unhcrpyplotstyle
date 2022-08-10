@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 plt.style.use('unhcrpyplotstyle','column')
 ```
 
-In this case, the`column`style will add some of the parameters to the base style `unhcrpyplostyle` in order to align all styles of chart elements with a standard UNHCR style column chart.
+In this case, the`column`style will add some of the parameters to the base style `unhcrpyplostyle` in order to align all chart element styles with a standard UNHCR style column chart.
 
 See the full list of styles based on chart types below:
 - `area`
@@ -46,6 +46,7 @@ See the full list of styles based on chart types below:
 - `histogram`
 - `line`
 - `linecolumn`
+- `lollipop`
 - `map`
 - `pie`
 - `population_pyramid`
