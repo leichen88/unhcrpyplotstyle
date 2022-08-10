@@ -14,3 +14,9 @@ v0.1.2 (04/08/2022)
    - add info on usage and examples
    - make `arial` font available to the style
    - update default style related to axis labels for different types of charts
+
+v0.1.3 (10/08/2022)
+====================
+- style:
+   - add lollipop chart style to the package
+  
