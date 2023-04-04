@@ -5,7 +5,7 @@
 The `unhcrpyplotstyle` package provides Matplotlib styles following [UNHCR Data Visualization Guidelines](https://www.unhcr.org/brand/wp-content/uploads/sites/89/2021/11/UNHCR_Data_Visualization_Guidelines.pdf) which ensures charts are professional and brand–compliant. The porpose of this package is to ease and speed up the chart creation process using Matplotlib custom stylesheets. 
 
 ## Getting started
-The easiest way to install `unhcrpyplostyle` package is by using `pip`:
+The easiest way to install `unhcrpyplotstyle` package is by using `pip`:
 
 ```bash
 # to install the lastest PyPI release
